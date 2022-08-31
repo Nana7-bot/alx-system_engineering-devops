@@ -1,5 +1,2 @@
 #!/bin/bash
-for entry in ${PWD}/*;
-do
-	echo "$(basename "$entry")"
-done
+(cd ${PWD}; ls)
