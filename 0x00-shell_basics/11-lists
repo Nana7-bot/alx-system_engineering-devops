@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lna $PWD ~/alx-system_engineering-devops /boot
+ls -lna .. ../.. /boot
